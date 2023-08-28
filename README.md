@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JennD15
-- 👀 I’m interested in Cloud Computing, DevOps, and Cybersecurity
+- 👀 I’m interested in Cloud Computing, DevOps, AI, and Cybersecurity
 - 🌱 I’m currently learning AWS, Python, Cybersecurity, & DevOps
 - 💞️ I’m looking to collaborate on AWS architecting and devops projects.
 - 📫 How to reach me https://www.linkedin.com/in/jenny-dassas/
